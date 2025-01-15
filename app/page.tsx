@@ -3,7 +3,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
-import { ExternalLink, MessageCircle, Linkedin, Instagram, Facebook, Globe } from 'lucide-react'
+import { ExternalLink, Linkedin, Instagram, Facebook, Globe } from 'lucide-react'
 import { motion } from "framer-motion"
 import { useState, useEffect } from "react"
 import { FaDiscord, FaWhatsapp } from 'react-icons/fa'
